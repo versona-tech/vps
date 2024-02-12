@@ -17,6 +17,3 @@ jobs:
           
       - name: Login Details
         run: cmd /c show.bat
-
-      - name: Time Counter
-        run: Start
